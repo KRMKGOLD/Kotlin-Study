@@ -46,7 +46,7 @@ fun namingArgu(name : String = "World", no : Int){
     println("Hello, $name, $no")
 }
 
-fun main(args : Array<String>){
+fun namingArguMain(){
     // namingArgu(10) - 10을 넣어주면 String형도 아니고, 자동으로 Int형으로 받아주지도 못함.
     namingArgu("Kotlin", 10) // Hello, Kotlin, 10 출력
     namingArgu(no = 20) // no라는 변수에 10을 직접 대입해서 호출,

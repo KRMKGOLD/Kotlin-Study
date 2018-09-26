@@ -4,8 +4,10 @@ Android 언어 중 하나인 Kotlin 공부.
 ## 변수
 
 1. useVar1.kt
+
    - 변수 선언, 초기화 방식 
 2. useVar2.kt
+
    - nullable, const와 val의 차이 등
 
 ## 함수
@@ -29,6 +31,10 @@ Android 언어 중 하나인 Kotlin 공부.
 3. useFunc3.kt
 
    - 중위 표현식
+
+   > 중위 표현식(infix) : 피연산자의 식(A + B) 에서 연산자 역할을 하게 만들어주는 식. 
+
+4. useFunc4.kt
 
    - 가변 인수
    - 재귀함수
