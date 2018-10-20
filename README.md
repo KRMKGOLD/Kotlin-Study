@@ -38,8 +38,16 @@ Android 언어 중 하나인 Kotlin 공부.
 ## 데이터
 
 1. useData1.kt
-   - 기초 데이터 타입
+
+   - 기초 데이터 타입 - 1
+     - 숫자, 문자, 논리, 문자열, Any
+
 2. useData2.kt
+
+   - 기초 데이터 타입 - 2
+     - Any - Any?
+     - Unit, Nothing, is, castring with is
+
    - 컬렉션 타입
 
 
