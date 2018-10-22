@@ -45,7 +45,12 @@ Android 언어 중 하나인 Kotlin 공부.
 2. useData2.kt
 
    - 기초 데이터 타입 - 2
+
+     ![](C:\Users\DSM2018\IdeaProjects\Kotlin\src\Image\AnyImage.png)
+
      - Any - Any?
+       - Any에서 Any?는 가능하지만, Any?에서 Any는 불가능하다
+       - Any?에 null값이 있을 가능성이 있어 Any에 대입이 불가
      - Unit, Nothing, is, castring with is
 
    - 컬렉션 타입
