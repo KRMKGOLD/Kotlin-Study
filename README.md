@@ -51,7 +51,7 @@ Android 언어 중 하나인 Kotlin 공부.
      - Any - Any?
        - Any에서 Any?는 가능하지만, Any?에서 Any는 불가능하다
        - Any?에 null값이 있을 가능성이 있어 Any에 대입이 불가
-     - Unit, Nothing, is, castring with is
+     - Unit, Nothing, is, casting with is
 
    - 컬렉션 타입
 
