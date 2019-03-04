@@ -53,7 +53,11 @@ Android 언어 중 하나인 Kotlin 공부.
        - Any?에 null값이 있을 가능성이 있어 Any에 대입이 불가
      - Unit, Nothing, is, casting with is
 
-   - 컬렉션 타입
+3. useData3.kt
 
+   - 컬렉션 타입 1  : Array
 
+4. useData4.kt
+
+   - 컬렉션 타입 2 : List, Set, Map
 
